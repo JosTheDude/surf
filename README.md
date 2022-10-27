@@ -20,3 +20,5 @@ __**`How To Install`**__
 *You can utilize the same steps on a server based enviorment, just use `astro build` and a web server to reference this installation location*
 
 ***IF THIS IS PATCHED, THIS WILL NOT BE UPDATED TILL ANOTHER PLAUSIBLE SYSTEM IS FOUND THAT CAN BE USED FOR THIS FRONTEND***
+
+*Credit to https://ggtyler.dev/ for the frontend design & code*
