@@ -5,6 +5,7 @@
 Public Repository of https://surf.joscodes.xyz/
 
 __**`How To Install`**__
+**Requires:** https://nodejs.org/en/ (NodeJS)
 ```
 1. Download this file as a ZIP (Code > Download as ZIP)
 2. Extract the file
