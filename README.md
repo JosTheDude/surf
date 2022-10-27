@@ -26,6 +26,7 @@ __**`How To Install`**__
 *Credit to https://ggtyler.dev/ for the frontend design & code*
 
 *Extra*
+
 **Install Node with Admin Permissions on Your Windows Machine**
 ```
 1. Download the node.js LTS binary (.zip for windows and extract it into a folder) for Windows and extract it to your desired location
