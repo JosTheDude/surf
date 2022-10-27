@@ -10,14 +10,10 @@ form.addEventListener('submit', (e) => {
 			if (!input.includes("http://")) {
 				window.open("http://" + encodeURI(input) + " ".repeat(16380))
 			} else {
-				toastr["warning"]("Do not include http:// or https:// in the URL!", "Invalid URL!")
-				
-				Console.log("Invalid URL (http://)")
+				toastr["warning"]("Do not include http:// or https:// in the URL!", "Invalid URL!")		
 			}
 		} else {
-			toastr["warning"]("Do not include http:// or https:// in the URL!", "Invalid URL!")
-			
-			Console.log("Invalid URL (https://)")
+			toastr["warning"]("Do not include http:// or https:// in the URL!", "Invalid URL!")			
 		}
 	} else {
 		toastr["error"]("The URL you provided is invalid!", "Invalid URL!")
@@ -36,8 +32,6 @@ form.addEventListener('submit', (e) => {
 			"hideEasing": "linear",
 			"showMethod": "fadeIn",
 			"hideMethod": "fadeOut"
-		
-		Console.log("Invalid URL (no .)")
 		}
 	}
 });
