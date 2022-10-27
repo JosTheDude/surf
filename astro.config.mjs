@@ -5,5 +5,7 @@ import compress from "astro-compress";
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [compress()]
+  integrations: [compress()],
+  site: 'https://surf.joscodes.xyz',
+  base: '/goguardian-surf',
 });
