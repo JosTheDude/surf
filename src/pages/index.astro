@@ -5,16 +5,13 @@ import Card from '../components/Card.astro';
 ---
 
 <Layout title="EasySource">
-	
-	<script>
-		import "../scripts/search.js";
-	</script>
+
+	<link rel="stylesheet" href="toastr.css">
+	<script src="../scripts/jquery.js"></script>
+	<script src="../scripts/toastr.js"></script>
+	<script src="../scripts/search.js"></script>
 
 	<script>
-	
-	import "../pages/toastr.css";
-	import "../scripts/jquery.js";
-	import "../scripts/toastr.js";
 	
 	$( document ).ready(function() {
 	
