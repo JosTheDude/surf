@@ -1,4 +1,4 @@
-# [Guardian Surf](https://surf.joscodes.xyz/)
+# [Guardian Surf](https://surf.joscodes.xyz/) (Beta)
 
 **This allows you to visit GoGuardian blocked websites easily through a simple frontend**
 
