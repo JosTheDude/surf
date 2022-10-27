@@ -7,5 +7,5 @@ import compress from "astro-compress";
 export default defineConfig({
   integrations: [compress()],
   site: 'https://josthedude.github.io',
-  base: '/surf',
+  base: '/goguardian-surf',
 });
