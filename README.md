@@ -25,9 +25,9 @@ __**`How To Install`**__
 
 *Credit to https://ggtyler.dev/ for the frontend design & code*
 
-*Extra*
+***Extra Things You Most Likely Will Not Need (Tutorials)***
 
-**Install Node with Admin Permissions on Your Windows Machine**
+**Install Node without Admin Permissions on Your Windows Machine**
 ```
 1. Download the node.js LTS binary (.zip for windows and extract it into a folder) for Windows and extract it to your desired location
 2. Add the path of the nodejs folder to the PATH environment variable: (open powershell and run: `rundll32 sysdm.cpl,EditEnvironmentVariables`)
