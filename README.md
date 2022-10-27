@@ -13,3 +13,5 @@ __**`How To Install`**__
 a. `npm i`
 b. `npm run`
 6. It will output a link, just click it and boom you can access the frontend locally :)
+
+**IF THIS IS PATCHED, THIS WILL NOT BE UPDATED TILL ANOTHER PLAUSIBLE SYSTEM IS FOUND THAT CAN BE USED FOR THIS FRONTEND**
