@@ -2,8 +2,6 @@
 
 **This allows you to visit GoGuardian blocked websites easily through a simple frontend**
 
-Public Repository of https://surf.joscodes.xyz/
-
 __**`How To Install`**__
 
 **Requires:** https://nodejs.org/en/ (NodeJS)
